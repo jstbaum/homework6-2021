@@ -166,16 +166,16 @@ a:visited {
         flex-direction: row;
     }
 
-    .pricing{
+    .pricing {
         display: flex;
-        align-items: center;
+        align-items: flex-end;
         flex-direction: row;
         justify-content: center;
         flex-flow: nowrap;
     }
 
     .card{
-        border: 2px #45ADDD;
+        border: 2px solid #45ADDD;
         flex-basis: 250px;
     }
 
